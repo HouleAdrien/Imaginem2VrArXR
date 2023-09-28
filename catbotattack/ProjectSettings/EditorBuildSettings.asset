@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/dragonHouse.unity
+    guid: a63bef5bcc4e89f4087a257e4227ef97
+  - enabled: 1
+    path: Assets/Scenes/BossScene.unity
+    guid: 27da5bd52541863479706a90e36e9a48
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: cd9e693f738710d4c8fbccf5519598a7
+  m_configObjects: {}
